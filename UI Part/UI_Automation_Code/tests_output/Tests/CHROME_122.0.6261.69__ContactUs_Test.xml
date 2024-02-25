@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="19">
+
+  <testsuite name="Tests.ContactUs_Test"
+    errors="0" failures="1" hostname="" id="" package="ContactUs_Test" skipped="0"
+    tests="19" time="163.3" timestamp="">
+  
+    <testcase name="ContactUS_TC001" classname="Tests.ContactUs_Test" time="13.37" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC002" classname="Tests.ContactUs_Test" time="2.102" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC003" classname="Tests.ContactUs_Test" time="2.516" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC004" classname="Tests.ContactUs_Test" time="2.400" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC005" classname="Tests.ContactUs_Test" time="2.261" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC006" classname="Tests.ContactUs_Test" time="2.258" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC007" classname="Tests.ContactUs_Test" time="2.198" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC008" classname="Tests.ContactUs_Test" time="8.097" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC009" classname="Tests.ContactUs_Test" time="2.417" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC010" classname="Tests.ContactUs_Test" time="2.446" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC011" classname="Tests.ContactUs_Test" time="2.294" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC012" classname="Tests.ContactUs_Test" time="2.289" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC013" classname="Tests.ContactUs_Test" time="2.425" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC014" classname="Tests.ContactUs_Test" time="2.629" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC015" classname="Tests.ContactUs_Test" time="6.888" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC016" classname="Tests.ContactUs_Test" time="9.987" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC017" classname="Tests.ContactUs_Test" time="7.550" assertions="1">  <failure message="Testing if element &lt;Element [name=@errorSection]&gt; contains text &#39;The message cannot be blank&#39; in 5000ms - expected &#34;contains text &#39;The message cannot be blank&#39;&#34; but got: &#34;element could not be located&#34; (5214ms)">    at Page.verifyOnErrorMessage (C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\page-objects\ContactUsPage.js:64:25)
+    at Object.ContactUs_TC017 (C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\ContactUs_Test.js:214:14)</failure>
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC018" classname="Tests.ContactUs_Test" time="2.546" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="ContactUs_TC019" classname="Tests.ContactUs_Test" time="4.974" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="2"
+            tests="1">
+
+  <testsuite name="Tests.HomePage_Test"
+    errors="0" failures="2" hostname="" id="" package="HomePage_Test" skipped="0"
+    tests="1" time="48.73" timestamp="">
+  
+    <testcase name="SearchForDress" classname="Tests.HomePage_Test" time="24.36" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Testing if element &lt;[object Object]&gt; contains text &#39;Dress&#39; in 5000ms - expected &#34;contains text &#39;Dress&#39;&#34; but got: &#34;does not contain &#39;Dress&#39;&#34; (5372ms)">    at C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\HomePage_Test.js:13:32
+    at Array.forEach (&lt;anonymous&gt;)
+    at NightwatchAPI.&lt;anonymous&gt; (C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\HomePage_Test.js:12:27)</failure>
+
+      <failure message="Testing if element &lt;[object Object]&gt; contains text &#39;Dress&#39; in 5000ms - expected &#34;contains text &#39;Dress&#39;&#34; but got: &#34;does not contain &#39;Dress&#39;&#34; (5341ms)">    at C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\HomePage_Test.js:13:32
+    at Array.forEach (&lt;anonymous&gt;)
+    at NightwatchAPI.&lt;anonymous&gt; (C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\HomePage_Test.js:12:27)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

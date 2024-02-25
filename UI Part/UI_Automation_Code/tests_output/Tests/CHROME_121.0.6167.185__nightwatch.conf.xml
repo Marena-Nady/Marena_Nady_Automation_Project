@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="0">
+
+  <testsuite name="Tests.nightwatch.conf"
+    errors="0" failures="0" hostname="" id="" package="nightwatch.conf" skipped="0"
+    tests="0" time="0.003000" timestamp="">
+  
+
+  
+    <system-err>
+       NoSuchElementError
+   An element could not be located on the page using the given search parameters.
+
+    Try fixing by :
+    1. Please inspect the html before the step
+    2. Verify if an element with the mentioned selector is present in the DOM tree
+
+    Error location:
+    C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\ContactUs_Test.js:220
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     218 |         const contactUsPage = browser.page.ContactUsPage();
+     219 |         contactUsPage
+     220 |             .enterEmail(&#34;marenanady12@gmail.com&#34;) 
+     221 |             .chooseFromSubjectHeadingList(&#39;Customer&#39;)
+     222 |             .enterOrderReference(&#34;order123&#34;)
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ NoSuchElementError
+   An element could not be located on the page using the given search parameters.
+
+    Try fixing by :
+    1. Please inspect the html before the step
+    2. Verify if an element with the mentioned selector is present in the DOM tree
+
+    Error location:
+    C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\ContactUs_Test.js:221
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     219 |         contactUsPage
+     220 |             .enterEmail(&#34;marenanady12@gmail.com&#34;)
+     221 |             .chooseFromSubjectHeadingList(&#39;Customer&#39;) 
+     222 |             .enterOrderReference(&#34;order123&#34;)
+     223 |             .chooseFile(&#39;testUpload.txt&#39;)
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ NoSuchElementError
+   An element could not be located on the page using the given search parameters.
+
+    Try fixing by :
+    1. Please inspect the html before the step
+    2. Verify if an element with the mentioned selector is present in the DOM tree
+
+    Error location:
+    C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\ContactUs_Test.js:221
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     219 |         contactUsPage
+     220 |             .enterEmail(&#34;marenanady12@gmail.com&#34;)
+     221 |             .chooseFromSubjectHeadingList(&#39;Customer&#39;) 
+     222 |             .enterOrderReference(&#34;order123&#34;)
+     223 |             .chooseFile(&#39;testUpload.txt&#39;)
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ NoSuchElementError
+   An element could not be located on the page using the given search parameters.
+
+    Try fixing by :
+    1. Please inspect the html before the step
+    2. Verify if an element with the mentioned selector is present in the DOM tree
+
+    Error location:
+    C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\ContactUs_Test.js:222
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     220 |             .enterEmail(&#34;marenanady12@gmail.com&#34;)
+     221 |             .chooseFromSubjectHeadingList(&#39;Customer&#39;)
+     222 |             .enterOrderReference(&#34;order123&#34;) 
+     223 |             .chooseFile(&#39;testUpload.txt&#39;)
+     224 |             .enterMsg(&#34;My order has manufacturing flaws&#34;)
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ NoSuchElementError
+   An element could not be located on the page using the given search parameters.
+    {&#34;error&#34;:{&#34;name&#34;:&#34;NoSuchWindowError&#34;,&#34;remoteStacktrace&#34;:&#34;&#34;},&#34;status&#34;:-1,&#34;value&#34;:null}
+
+    Try fixing by :
+    1. Please inspect the html before the step
+    2. Verify if an element with the mentioned selector is present in the DOM tree
+
+    Error location:
+    C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\ContactUs_Test.js:223
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     221 |             .chooseFromSubjectHeadingList(&#39;Customer&#39;)
+     222 |             .enterOrderReference(&#34;order123&#34;)
+     223 |             .chooseFile(&#39;testUpload.txt&#39;) 
+     224 |             .enterMsg(&#34;My order has manufacturing flaws&#34;)
+     225 |             .clickSubmit()
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ NoSuchElementError
+   An element could not be located on the page using the given search parameters.
+    {&#34;error&#34;:{&#34;name&#34;:&#34;NoSuchWindowError&#34;,&#34;remoteStacktrace&#34;:&#34;&#34;},&#34;status&#34;:-1,&#34;value&#34;:null}
+
+    Try fixing by :
+    1. Please inspect the html before the step
+    2. Verify if an element with the mentioned selector is present in the DOM tree
+
+    Error location:
+    C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\ContactUs_Test.js:224
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     222 |             .enterOrderReference(&#34;order123&#34;)
+     223 |             .chooseFile(&#39;testUpload.txt&#39;)
+     224 |             .enterMsg(&#34;My order has manufacturing flaws&#34;) 
+     225 |             .clickSubmit()
+     226 |             .verifyOnSuccessMessage(&#34;Your message has been successfully sent to our team.&#34;);
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ NoSuchElementError
+   An element could not be located on the page using the given search parameters.
+    {&#34;error&#34;:{&#34;name&#34;:&#34;NoSuchWindowError&#34;,&#34;remoteStacktrace&#34;:&#34;&#34;},&#34;status&#34;:-1,&#34;value&#34;:null}
+
+    Try fixing by :
+    1. Please inspect the html before the step
+    2. Verify if an element with the mentioned selector is present in the DOM tree
+
+    Error location:
+    C:\Users\Marena.Nady\Desktop\Automation project-Siemens\UI Part\UI_Automation_Code\Tests\ContactUs_Test.js:225
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+     223 |             .chooseFile(&#39;testUpload.txt&#39;)
+     224 |             .enterMsg(&#34;My order has manufacturing flaws&#34;)
+     225 |             .clickSubmit() 
+     226 |             .verifyOnSuccessMessage(&#34;Your message has been successfully sent to our team.&#34;);
+     227 |     },
+    ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+ NoSuchWindowError
+   no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.185)
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
